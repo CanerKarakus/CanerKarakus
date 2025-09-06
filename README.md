@@ -1,4 +1,7 @@
-![MasterHead](https://healthypostnatalbody.com/wp-content/uploads/2018/12/tenor.gif)
+<p align="center">
+  <img src="https://i.imgur.com/YZASx2P.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Caner Karakuş</h1>
 <h3 align="center">A passionate developer from Türkiye.</h3>
 
