@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caner Karakuş</h1>
-<h3 align="center">A passionate developer from Türkiye.</h3>
 
 - 🔭 I’m currently working on [CK-Programming-Language](https://github.com/CanerKarakus/ck-programming-language-ide)
 
